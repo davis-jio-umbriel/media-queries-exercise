@@ -77,4 +77,16 @@ li{
     .header-img{
         margin: auto;
     }
+
+    .main {
+        width: 55%;
+        margin-right: auto;
+        align-self: flex-start;
+    }
+
+    .sub-section {
+        width: 35%;
+        align-self: flex-start;
+
+    }
 }
