@@ -16,13 +16,14 @@ img{
 .alert-info {
     background-color: #cbffff;
     text-align: center;
-    padding-top:1em;
-    padding-bottom: 1em;
     border: lightgrey 1px solid;
 }
 .alert-info>a{
+    display: block;
     color: #000;
     text-decoration: none;
+    width: 100%;
+    padding: 1em 0;
 }
 
 h1 {
