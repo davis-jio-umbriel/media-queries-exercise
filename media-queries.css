@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+.sub-section{
+    font-style: italic;
+}
+img{
+    padding: .5em;
+    max-height: 50vw;
+    width: 100%;
+}
