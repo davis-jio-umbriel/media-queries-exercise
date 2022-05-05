@@ -50,7 +50,19 @@ li{
 #main{
     margin-bottom: 3em;
 }
-
+footer{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+#social-media-links{
+    font-size: x-large;
+}
+#social-media-links>a{
+    color: black;
+    text-decoration: none;
+}
 @media screen and (min-width:992px){
     body{
         display: flex;
@@ -87,6 +99,5 @@ li{
     .sub-section {
         width: 35%;
         align-self: flex-start;
-
     }
 }
